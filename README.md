@@ -83,19 +83,46 @@
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 2026 Goals
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=2328026&show_icons=true&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<th>Goal</th>
+<th>Status</th>
+<th>Progress</th>
+</tr>
 
----
+<tr>
+<td>💻 Master MERN Stack</td>
+<td>In Progress</td>
+<td>████████░░ 80%</td>
+</tr>
 
-## 🔥 Streak Stats
+<tr>
+<td>🧠 Strengthen DSA</td>
+<td>In Progress</td>
+<td>███████░░░ 70%</td>
+</tr>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2328026&theme=tokyonight" />
-</p>
+<tr>
+<td>🚀 Build 5+ Full Stack Projects</td>
+<td>Ongoing</td>
+<td>██████░░░░ 60%</td>
+</tr>
+
+<tr>
+<td>📦 Deploy Production Apps</td>
+<td>In Progress</td>
+<td>█████░░░░░ 50%</td>
+</tr>
+
+<tr>
+<td>🏆 Crack Internship</td>
+<td>Target</td>
+<td>████░░░░░░ 40%</td>
+</tr>
+
+</table>
 
 ---
 
