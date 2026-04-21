@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm MD Khustar</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=MD%20KHUSTAR&fontSize=45&fontColor=ffffff&animation=twinkling&desc=MERN%20Stack%20%7C%20API%20Developer%20%7C%20Problem%20Solver&descAlignY=60" /># <h1 align="center">Hi 👋, I'm MD Khustar</h1>
 
 <h3 align="center">Full Stack Developer | MERN Stack | Backend Enthusiast</h3>
 
