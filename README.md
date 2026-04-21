@@ -1,18 +1,21 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MD%20KHUSTAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Backend%20Developer&descAlignY=55&descSize=16" />
+<!-- Premium Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=MD%20KHUSTAR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Backend%20Engineer&descAlignY=60&descSize=18" />
 
 <h1 align="center">Hi 👋, I'm MD Khustar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Backend Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Focused+Developer;Building+Scalable+Web+Apps" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about building scalable web applications  
-- 🔐 Skilled in **REST APIs, JWT Authentication, Backend Development**  
-- ⚡ Experienced with **MERN Stack (MongoDB, Express, React, Node.js)**  
-- 🌐 Portfolio: https://khustarportfolio.netlify.app/  
-- 📦 Built real-world full-stack projects  
-- 📈 Currently improving **DSA & problem-solving skills**
+- 💻 Passionate about building **scalable full-stack applications**
+- 🔐 Strong in **Backend Development, REST APIs, Authentication**
+- ⚡ Experienced in **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🌐 Portfolio: https://khustarportfolio.netlify.app/
+- 📦 Built production-level academic and personal projects
+- 📈 Currently focused on **DSA + system design basics**
 
 ---
 
@@ -31,26 +34,26 @@
 <td width="50%">
 
 ### 🛒 ShopFlow — E-Commerce Platform  
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/2328026/shop-flow-project)
+[![Repo](https://img.shields.io/badge/View-Project-0A66C2?style=for-the-badge&logo=github)](https://github.com/2328026/shop-flow-project)
 
-- MERN stack full-stack application  
-- Implemented **Order-to-Cash workflow**  
-- Secure auth using **JWT & bcrypt**  
-- Features: Cart, Checkout, Payments, Tracking  
-- Built **10+ REST APIs**
+✔ Full MERN stack implementation  
+✔ Order-to-Cash workflow  
+✔ JWT Authentication & secure APIs  
+✔ Multi-payment integration  
+✔ 10+ REST API endpoints  
 
 </td>
 
 <td width="50%">
 
 ### 📋 TaskFlow — Task Manager  
-![MERN](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
+![MERN](https://img.shields.io/badge/MERN-Stack-2ecc71?style=for-the-badge)
 
-- Role-based authentication system  
-- REST APIs for task lifecycle  
-- MongoDB optimized queries  
-- Real-time UI updates  
-- Filtering & deadline tracking  
+✔ Role-based authentication  
+✔ Task lifecycle APIs  
+✔ Optimized MongoDB queries  
+✔ Real-time UI updates  
+✔ Filtering & deadlines  
 
 </td>
 </tr>
@@ -59,23 +62,23 @@
 <td width="50%">
 
 ### 📚 Library & Assignment System  
-![Java](https://img.shields.io/badge/Java-SQL-orange?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-SQL-f39c12?style=for-the-badge)
 
-- Java + SQL based system  
-- CRUD operations for records  
-- Applied **OOP principles**  
-- Organized academic workflows  
+✔ Java + SQL architecture  
+✔ CRUD operations  
+✔ OOP-based design  
+✔ Efficient record management  
 
 </td>
 
 <td width="50%">
 
-### 🚧 More Projects Coming  
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+### 🚀 Currently Building  
+![Status](https://img.shields.io/badge/Status-Learning-blueviolet?style=for-the-badge)
 
-- Building new full-stack applications  
-- Exploring scalable backend systems  
-- Improving DSA & problem solving  
+✔ Advanced backend systems  
+✔ Scalable API architecture  
+✔ Improving DSA consistency  
 
 </td>
 </tr>
@@ -126,16 +129,16 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/md-khustar-noorani-4b7098320/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://github.com/2328026">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
 </a>
 <a href="https://khustarportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
+<img src="https://img.shields.io/badge/Portfolio-16a085?style=for-the-badge&logo=google-chrome" />
 </a>
 </p>
