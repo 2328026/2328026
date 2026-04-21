@@ -10,6 +10,7 @@
 - 💻 Passionate about building scalable web applications  
 - 🔐 Skilled in **REST APIs, JWT Authentication, Backend Development**  
 - ⚡ Experienced with **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 🌐 Portfolio: https://khustarportfolio.netlify.app/  
 - 📦 Built real-world full-stack projects  
 - 📈 Currently improving **DSA & problem-solving skills**
 
@@ -106,5 +107,8 @@
 </a>
 <a href="https://github.com/2328026">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://khustarportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
 </a>
 </p>
