@@ -10,7 +10,7 @@
 - 💻 Passionate about building scalable web applications  
 - 🔐 Skilled in **REST APIs, JWT Authentication, Backend Development**  
 - ⚡ Experienced with **MERN Stack (MongoDB, Express, React, Node.js)**  
-- 📦 Built projects like **ShopFlow, TaskFlow, Library System**  
+- 📦 Built real-world full-stack projects  
 - 📈 Currently improving **DSA & problem-solving skills**
 
 ---
@@ -20,6 +20,33 @@
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 ShopFlow — E-Commerce Platform
+🔗 https://github.com/2328026/shop-flow-project  
+
+- Full-stack MERN application implementing **Order-to-Cash workflow**  
+- Secure authentication using **JWT & bcrypt**  
+- Features: Cart, Checkout, Multi-payment, Order Tracking  
+- Built **10+ REST APIs** for scalable backend  
+
+---
+
+## 📚 Student Library & Assignment System
+- Java + SQL based system for managing library records and assignments  
+- Implemented **CRUD operations & OOP principles**  
+- Improved academic workflow and data organization  
+
+---
+
+## 📋 TaskFlow — Task Management System
+- Full-stack MERN app with **authentication & role-based access**  
+- Features: Task tracking, filtering, deadlines  
+- Optimized backend using **MongoDB queries**  
+- Responsive UI with real-time updates  
 
 ---
 
