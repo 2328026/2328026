@@ -17,36 +17,68 @@
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Featured Projects
 
-## 🛒 ShopFlow — E-Commerce Platform
-🔗 https://github.com/2328026/shop-flow-project  
+<table>
+<tr>
+<td width="50%">
 
-- Full-stack MERN application implementing **Order-to-Cash workflow**  
-- Secure authentication using **JWT & bcrypt**  
-- Features: Cart, Checkout, Multi-payment, Order Tracking  
-- Built **10+ REST APIs** for scalable backend  
+### 🛒 ShopFlow — E-Commerce Platform  
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/2328026/shop-flow-project)
 
----
+- MERN stack full-stack application  
+- Implemented **Order-to-Cash workflow**  
+- Secure auth using **JWT & bcrypt**  
+- Features: Cart, Checkout, Payments, Tracking  
+- Built **10+ REST APIs**
 
-## 📚 Student Library & Assignment System
-- Java + SQL based system for managing library records and assignments  
-- Implemented **CRUD operations & OOP principles**  
-- Improved academic workflow and data organization  
+</td>
 
----
+<td width="50%">
 
-## 📋 TaskFlow — Task Management System
-- Full-stack MERN app with **authentication & role-based access**  
-- Features: Task tracking, filtering, deadlines  
-- Optimized backend using **MongoDB queries**  
-- Responsive UI with real-time updates  
+### 📋 TaskFlow — Task Manager  
+![MERN](https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge)
+
+- Role-based authentication system  
+- REST APIs for task lifecycle  
+- MongoDB optimized queries  
+- Real-time UI updates  
+- Filtering & deadline tracking  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Library & Assignment System  
+![Java](https://img.shields.io/badge/Java-SQL-orange?style=for-the-badge)
+
+- Java + SQL based system  
+- CRUD operations for records  
+- Applied **OOP principles**  
+- Organized academic workflows  
+
+</td>
+
+<td width="50%">
+
+### 🚧 More Projects Coming  
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
+- Building new full-stack applications  
+- Exploring scalable backend systems  
+- Improving DSA & problem solving  
+
+</td>
+</tr>
+</table>
 
 ---
 
